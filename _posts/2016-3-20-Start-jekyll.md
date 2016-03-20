@@ -19,4 +19,8 @@ D:\Ruby200-x64>curl http://curl.haxx.se/ca/cacert.pem -o cacert.pem
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
 100  223k  100  223k    0     0  82478      0  0:00:02  0:00:02 --:--:-- 94724
-然后把生成在Ruby目录下的cacert.pem移动到里面的bin目录下[链接](http://fangge-sun.blog.163.com/blog/static/4895625720142315473777/)
+然后把生成在Ruby目录下的cacert.pem移动到里面的bin目录下
+
+参考[在Windows中配置Jekyll  ](http://fangge-sun.blog.163.com/blog/static/4895625720142315473777/)
+
+更多[build-blog-jekyll-github-pages](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
