@@ -23,4 +23,4 @@ D:\Ruby200-x64>curl http://curl.haxx.se/ca/cacert.pem -o cacert.pem
 
 参考[在Windows中配置Jekyll  ](http://fangge-sun.blog.163.com/blog/static/4895625720142315473777/)
 
-更多[build-blog-jekyll-github-pages](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
+更多参考[build-blog-jekyll-github-pages](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
